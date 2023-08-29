@@ -6,6 +6,7 @@ body {
 	margin-top: 10px; */
 	color:aliceblue ;
 	display: flex; 
+	margin-top: -10px;
 }
 .col {
 	/* display: inline-block; */
@@ -13,24 +14,34 @@ body {
 	height: 30%;
 	margin-left: 40px;
 	margin-top: 10px; 
+	font-size: 30px;
 	
 }
 .cols{
-	margin-left: 270px;
-	width: 30%;
+	margin-left: 325px;
+	width: 40%;
 	margin-top: 20px; 
+	font-size: 30px;
 }
 .JPG{
-	margin-left: 40px;
+	margin-left: 0px;
+}
+.al{
+	display: inline-block;
+	width: 400px;
+	height: 190px;
+	padding: 10px;
+	margin-left: 25px;
 }
 .als{
 	display: inline-block;
-	width: 390px;
+	width: 400px;
 	height: 190px;
 	padding: 10px;
+	margin-left: 50px;
 }
 img {
-	width: 100%;
-	max-height: 250%;
+	width: 115%;
+	height: 180%;
 	
  }
