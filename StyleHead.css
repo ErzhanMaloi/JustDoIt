@@ -1,0 +1,50 @@
+img{
+    height: 68px;
+    width: 68px;
+}
+.he{
+    display: flex;
+    white-space:pre;
+    margin-left: 217px;
+    height: 95px;
+    font-size: 20px;
+}
+.hedi{
+    margin-top: 15px;
+    margin-right: 30px;
+    margin-left: -50px;
+}
+.hed{
+    margin-top: 75px;
+    margin-left: 22px;
+}
+b{
+    font-size: 30px;
+}
+.topfut{
+    background-color: aqua;
+    height: 100%;
+    width: 100%;
+}
+.fut{
+    margin-left: 40%;
+    text-align: center;
+    height: 100%;
+    width: 350px;
+    font-size: 30px;
+}
+a{
+    color: black;
+    text-decoration: none ;
+}
+.heds{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.Line{
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+}
+.call{
+    margin-left: 30px;
+}
